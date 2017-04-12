@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SuperContact</string>
+    <string name="welcome_message">Contacts</string>
+    <string name="search">Touch here to search a contact</string>
+    <string name="search_button">+</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="home_phone">Home Phone</string>
+    <string name="mobile_phone">Mobile Phone</string>
+    <string name="email">Email</string>
+    <string name="add_contact_message">Add a contact</string>
+
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Save</string>
+    <string name="back_button">Back</string>
+
+    <string name="delete_contact">Delete Contact</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="edit_contact_message">Edit Contact</string>
+    <string name="edit_button">Edit</string>
+
+    <string-array name="contact_long_press">
+        <item>Delete Contact</item>
+        <item>Edit Contact</item>
+    </string-array>
+
+</resources>
